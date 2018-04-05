@@ -1,0 +1,3 @@
+# redisson-token-store
+
+This project contains Spring OAuth2 [`TokenStore`](https://github.com/spring-projects/spring-security-oauth/blob/2.3.0.RELEASE/spring-security-oauth2/src/main/java/org/springframework/security/oauth2/provider/token/TokenStore.java) using [Redisson](https://redisson.org/) distributed collections as storage and based on [`InMemoryTokenStore`](https://github.com/spring-projects/spring-security-oauth/blob/2.3.0.RELEASE/spring-security-oauth2/src/main/java/org/springframework/security/oauth2/provider/token/store/InMemoryTokenStore.java) implementation.  
